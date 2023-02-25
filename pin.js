@@ -7,7 +7,6 @@ function getPin() {
 
     }
     else {
-        // console.log("got a number of 3 digits", pin)
         return getPin();
     }
 }
